@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Discord Token Login",
-    "version": "1.0.0",
+    "version": "1.0",
 
     "description": "Logging into a Discord account using a token, made easier. Ported to FF",
     "icons": {"128": "logo.png"},
@@ -21,3 +21,4 @@
         "https://*.discord.com/*"
     ]
 }
+
